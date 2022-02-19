@@ -12,7 +12,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="200dp"
-        android:text="  I love you Mumma ❤\n To me you are perfect  \n             and best"
+        android:text="  Kaise Ho?"
         android:textColor="#F403AC"
         android:textSize="40dp"
         android:textStyle="bold"
